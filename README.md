@@ -60,6 +60,6 @@
 | 53 |        | packer_count         | 壳规则命中个数                  |
 | 54 |        | yargen_count         | yara rule字符规则命中个数        |
 | 55 | 免杀特征   | av_count             | 反病毒工具字符个数                |
-| 56 |        | dbg_count            | 反调试工具字符个数                |
+| 56 |        | dbg_count            | 调试工具字符个数                |
 
 
