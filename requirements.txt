@@ -1,0 +1,4 @@
+lief~=0.10.1
+numpy~=1.19.5
+capstone~=4.0.2
+yara-python~=4.0.2
